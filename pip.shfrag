@@ -1,0 +1,2 @@
+pip install --upgrade google-api-python-client oauth2client
+pip install git+https://github.com/gsuitedevs/PyDrive.git#egg=PyDrive
